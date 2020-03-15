@@ -1,0 +1,7 @@
+C:\My Stuff\vs.src\GitPull\GitPull\bin\Release\GitPull.exe.config
+C:\My Stuff\vs.src\GitPull\GitPull\bin\Release\GitPull.exe
+C:\My Stuff\vs.src\GitPull\GitPull\bin\Release\GitPull.pdb
+C:\My Stuff\vs.src\GitPull\GitPull\obj\Release\GitPull.csprojAssemblyReference.cache
+C:\My Stuff\vs.src\GitPull\GitPull\obj\Release\GitPull.csproj.CoreCompileInputs.cache
+C:\My Stuff\vs.src\GitPull\GitPull\obj\Release\GitPull.exe
+C:\My Stuff\vs.src\GitPull\GitPull\obj\Release\GitPull.pdb
